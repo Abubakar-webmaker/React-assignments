@@ -1,0 +1,1 @@
+I have created a React boilerplate and built several elements such as headings (h1), paragraphs, tables, lists, and images. I also created individual components and rendered them using the render method
